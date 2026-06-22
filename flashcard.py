@@ -64,6 +64,7 @@ class FlashcardApp:
         if self.flashcards:
             total = len(self.flashcards)
             self.tracker_label.config(text=f"Card {self.current_index + 1} of {total}")
+        
             
             if self.showing_answer:
                 self.card_box.config(text=self.flashcards[self.current_index]["answer"], fg="#a6e3a1", bg="#45475a")
