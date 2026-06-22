@@ -33,16 +33,18 @@ Since this application utilizes Python's built-in standard graphics library, **n
 Run the Application:
 Execute the standard execution script directly from your terminal or command prompt:
 
-```Bash
+Bash
 python flashcard.py
 
 ---
-##3 Internship Task Requirements Checklist
-[x] Create a user-friendly interface for flashcard interaction.
 
-[x] Implement 'Next' and 'Previous' card tracking mechanics.
+markdown
+## 📌 Internship Task Requirements Checklist
 
-[x] Toggle-flip feature to show/hide card answers.
+- [x] Create a user-friendly interface for flashcard interaction.
+- [x] Implement 'Next' and 'Previous' card tracking mechanics.
+- [x] Toggle-flip feature to show/hide card answers.
+- [x] Dynamic add and delete customization controls.
 
-[x] Dynamic add and delete customization controls.
+
  
