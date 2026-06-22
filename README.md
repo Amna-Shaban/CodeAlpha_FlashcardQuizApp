@@ -13,6 +13,13 @@ A modern, responsive desktop Flashcard Quiz Application built using Python and t
 - **Modern Dark UI:** Tailored with a custom, high-contrast dark aesthetic built for prolonged studying comfort.
 
 ---
+## 📸 Application Preview
+
+Below is a snapshot of the fully functional application layout in action:
+
+<p align="center">
+  <img src="screenshot.png" alt="Flashcard Application Interface" width="650">
+</p>
 
 ## 🛠️ Built With
 
